@@ -72,5 +72,5 @@ The datasets used in this assignment are:
 ## Contact
 
 For any questions or feedback, feel free to contact:
-- **Name**: Your Name
-- **Email**: your.email@example.com
+- **Name**: Gunavardhan Potnuru
+- **Email**: gunavardhanpotnuru71@gmail.com
